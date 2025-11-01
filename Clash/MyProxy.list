@@ -3,8 +3,6 @@
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN,element-plus.org
-# 苹果代理
-DOMAIN-SUFFIX,apple.com
 # 游戏代理
 # DOMAIN-SUFFIX,maplestory.beanfun.com
 # DOMAIN-SUFFIX,tw.hicdn.beanfun.com
@@ -18,3 +16,5 @@ DOMAIN-SUFFIX,aiyundiy.com
 # 加密货币
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnappweb
+DOMAIN-KEYWORD,binan
+DOMAIN-KEYWORD,bnapp

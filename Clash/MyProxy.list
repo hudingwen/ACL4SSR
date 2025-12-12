@@ -1,8 +1,10 @@
 # 代理列表
 # 国外域名关键字
+DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN,element-plus.org
+
 # 游戏代理
 # DOMAIN-SUFFIX,maplestory.beanfun.com
 # DOMAIN-SUFFIX,tw.hicdn.beanfun.com
